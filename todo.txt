@@ -1,0 +1,7 @@
+Todo:
+
+Next:
+
+-> new plugin architecture
+-> webview test and see hibrid
+-> update readme
